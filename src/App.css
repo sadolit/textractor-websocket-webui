@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-Container {
+  margin: 0 auto;
+  max-width: 80%;
+  min-width: 80%;
+}
+
+.App-link {
+  color: #61dafb;
+}

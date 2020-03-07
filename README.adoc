@@ -1,0 +1,17 @@
+= textractor_websocket WebUI
+
+== Summary
+
+Web UI for https://github.com/sadolit/textractor-websocket[textractor-websocket plugin]
+
+== Build
+
+[source,sh]
+----
+# This builds both executable for testing and dynamic library
+npm run build
+----
+
+== Usage
+
+Open `index.html`, input Web Socket address (or leave default) and press Connect.
