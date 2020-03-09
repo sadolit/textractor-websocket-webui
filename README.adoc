@@ -4,6 +4,8 @@
 
 Web UI for https://github.com/sadolit/textractor-websocket[textractor-websocket plugin]
 
+image::screenshot.png[]
+
 == Build
 
 [source,sh]
